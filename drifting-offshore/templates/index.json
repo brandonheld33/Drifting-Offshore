@@ -1,0 +1,9 @@
+{
+  "sections": {
+    "drifting_homepage": {
+      "type": "drifting-homepage",
+      "settings": {}
+    }
+  },
+  "order": ["drifting_homepage"]
+}
