@@ -1,9 +1,0 @@
-{
-  "sections": {
-    "product_template": {
-      "type": "product-template",
-      "settings": {}
-    }
-  },
-  "order": ["product_template"]
-}
