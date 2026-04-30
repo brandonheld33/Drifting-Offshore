@@ -1,0 +1,9 @@
+{
+  "sections": {
+    "donations": {
+      "type": "donations",
+      "settings": {}
+    }
+  },
+  "order": ["donations"]
+}
